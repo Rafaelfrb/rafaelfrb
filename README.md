@@ -1,10 +1,10 @@
 ### Hi there 👋  My name is Rafael and I am interested in front end development.
 
-<div>
+<--!<div>
 <a href="https://github.com/Rafaelfrb">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelfrb&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafaelfrb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+</div>-->
 
 
 - 🌱 I’m currently learning:

@@ -16,7 +16,7 @@
 
           
           
-- 👯 I want to be a part of a development team to collaborate and improve my skills.
+- 👯 I like being a part of a development team and collaborate while improving my skills.
 
 - 📫 How to reach me: 
  

@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning:
-<h1>
+<h1 margin-left="40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </h1>
 

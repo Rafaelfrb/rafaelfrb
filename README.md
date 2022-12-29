@@ -15,6 +15,6 @@
 - 📫 How to reach me: 
  
  rafael.frb@hotmail.com</br>
- https://www.linkedin.com/in/rafaelnfbar/
+
 
 

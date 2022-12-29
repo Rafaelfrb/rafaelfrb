@@ -3,12 +3,8 @@
 
 
 - 🌱 I’m currently learning:
-<h1 margin-left="40px">
+<h1 align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-</h1>
-
-- I’m interested in learning:
-<h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40"/>
 </h1>
